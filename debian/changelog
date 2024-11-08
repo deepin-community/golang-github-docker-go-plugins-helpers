@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-docker-go-plugins-helpers (0.20211224-3) unstable; urgency=medium
 
-  * Initial release
+  * No-change rebuild to aid testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Reinhard Tartler <siretart@tauware.de>  Thu, 02 Nov 2023 18:00:26 -0400
+
+golang-github-docker-go-plugins-helpers (0.20211224-2) unstable; urgency=medium
+
+  * Fix binary package name
+
+ -- Reinhard Tartler <siretart@tauware.de>  Thu, 02 Nov 2023 07:03:17 -0400
+
+golang-github-docker-go-plugins-helpers (0.20211224-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1054518)
+
+ -- Reinhard Tartler <siretart@tauware.de>  Fri, 20 Oct 2023 08:02:02 -0400
